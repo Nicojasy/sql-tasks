@@ -1,0 +1,7 @@
+C:\Users\Dimat\source\repos\myApp\myApp\obj\Debug\myApp.csprojAssemblyReference.cache
+C:\Users\Dimat\source\repos\myApp\myApp\obj\Debug\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Dimat\source\repos\myApp\myApp\bin\Debug\myApp.exe.config
+C:\Users\Dimat\source\repos\myApp\myApp\bin\Debug\myApp.exe
+C:\Users\Dimat\source\repos\myApp\myApp\bin\Debug\myApp.pdb
+C:\Users\Dimat\source\repos\myApp\myApp\obj\Debug\myApp.exe
+C:\Users\Dimat\source\repos\myApp\myApp\obj\Debug\myApp.pdb
